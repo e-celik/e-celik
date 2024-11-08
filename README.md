@@ -1,7 +1,7 @@
 # _Ekin Celik_
 Computer Science, _University of California, San Diego_  
 Expected Graduation: Spring 2026
-[Academic History](/[ENCacademicHistory.pdf](https://github.com/e-celik/e-celik/blob/main/academichistoryreviewpdf.pdf))
+[Academic History](academichistoryreviewpdf.pdf)
 
 ## _Academic Bio_
 In Fall of 2023, I transferred from [De Anza College](https://www.deanza.edu/) in Cupertino to [UC San Diego](https://www.deanza.edu/), to persue a degree in Computer Science. I decided to study this field only after I reluctantly took a programming class, with the insistance of my family. I quickly realized that I was talented at coding, and that I enjoyed it, too. After further coursework at De Anza College, including classes like [Data Structures](https://www.deanza.edu/faculty/garbaceadelia/cis22c.html), [Object Oriented Analysis and Design](https://www.deanza.edu/schedule/class-details.html?crn=23076&y=2022&q=F), and [x86 Assembly](https://www.deanza.edu/faculty/nguyenclare/cis21ja.html), I was able and grateful to transfer to UCSD, where I took more advanced coursework. My favorite classes so far include [Advanced Data Structures](https://catalog.ucsd.edu/courses/CSE.html#cse100), [Theory of Computability](https://catalog.ucsd.edu/courses/CSE.html#cse105), and [Introduction to Artificial Intelligence: Search and Reasoning](https://catalog.ucsd.edu/courses/CSE.html#cse150b).  
