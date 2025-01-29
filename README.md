@@ -11,7 +11,7 @@ Some classes that I look forward to are:
 -  [Deep Learning](https://catalog.ucsd.edu/courses/CSE.html#cse151b)
 -  [Introduction to Modern Cryptography](https://catalog.ucsd.edu/courses/CSE.html#cse107)
 
-My future goals include obtaining a Graduate Level Degree in Computer Science, desireably here at UCSD. I find that I particularly enjoy theory courses, so I expect that I would specialize in that area, with nothing specific in mind yet. I expect to make a well informed decision after I have taken a wider variety of courses.
+My future goals include obtaining a Graduate Level Degree in Computer Science, desireably here at UCSD. I find that I particularly enjoy systems courses, so I expect that I would specialize in that area, with nothing specific in mind yet. I expect to make a well informed decision after I have taken a wider variety of courses.
 
 Academic Goals:
 - [x] Attend Prestiguous University[^1]
@@ -34,15 +34,10 @@ Some of my Hobbies/Talents Include:
 
 ## _Gallery_
 
-### Spooky Pictures From Around Campus:
-
-![Path](Images/IMG_0962.jpg)
-
-![RoadLights](Images/IMG_0968.JPG)
-
-![SatanLives](Images/IMG_0941.JPG)
-
 ### Assorted Pictures:
+
+Me (right) and my Buddy with Similar Jackets[^6]  
+<img src="attachments/IMG_1198.JPG" alt="VOIDZ" width="400"/> 
 
 Davenport, CA  
 ![Davenport](attachments/66640819213__98A65F64-E58E-4CF6-B66D-245BE0BC34DE.jpg)  
@@ -52,14 +47,23 @@ Me and Grandpa
 ![dede](attachments/IMG_0789.JPG)  
 Two of my Buddies and a Million Stars  
 ![skyline](attachments/IMG_0909.JPG)  
-Me and my Buddy with Similar Jackets[^6]  
-<img src="attachments/IMG_1198.JPG" alt="VOIDZ" width="400"/>  
+ 
 Lake Tahoe from Heavenly Resort  
 ![Heavenly](attachments/IMG_2665.jpg)  
 Clay-Pigeon Shooting at a Range  
 ![pigeons](attachments/IMG_3383.jpg)  
 Surfing Trip with [Outback Adventures](https://recreation.ucsd.edu/adventures/wilderness-orientation/)  
 ![surfing](attachments/PST00299_Original.jpg)
+
+
+### Spooky Pictures From Around Campus:
+
+![Path](Images/IMG_0962.jpg)
+
+![RoadLights](Images/IMG_0968.JPG)
+
+![SatanLives](Images/IMG_0941.JPG)
+
 
 ## _More Stuff_
 
